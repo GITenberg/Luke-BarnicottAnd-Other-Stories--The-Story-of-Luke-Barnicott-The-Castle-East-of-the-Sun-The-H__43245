@@ -1,0 +1,41 @@
+_repo: Luke-BarnicottAnd-Other-Stories--The-Story-of-Luke-Barnicott-The-Castle-East-of-the-Sun-The-H__43245
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Wildermuth, Ottilie
+    aliases:
+    - Wildermuth, Ottalie
+    - Wildermuth, Ottilie Rooschutz
+    - Wildermuth, Ottilie Rooschütz
+    birthdate: 1817
+    deathdate: 1877
+    gutenberg_agent_id: '41621'
+    url: http://www.gutenberg.org/2009/agents/41621
+covers:
+- cover_type: archival
+  image_path: 43245-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Howitt, William
+    birthdate: 1792
+    deathdate: 1879
+    gutenberg_agent_id: '38358'
+    url: http://www.gutenberg.org/2009/agents/38358
+description: ''
+gutenberg_issued: '2013-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+tableOfContents: 'The story of Luke Barnicott -- The castle east of the sun: an old
+  story from the Danish -- The holidays at Barenburg Castle.'
+title: Luke Barnicott, and Other Stories
+url: http://www.gutenberg.org/ebooks/43245
