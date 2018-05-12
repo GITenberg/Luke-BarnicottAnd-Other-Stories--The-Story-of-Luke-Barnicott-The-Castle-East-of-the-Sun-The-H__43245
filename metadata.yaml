@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '38358'
     url: http://www.gutenberg.org/2009/agents/38358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43245#Luke-BarnicottAnd-Other-Stories--The-Story-of-Luke-Barnicott-The-Castle-East-of-the-Sun-The-H_
 gutenberg_issued: '2013-07-18'
 gutenberg_type: Text
 identifiers:
